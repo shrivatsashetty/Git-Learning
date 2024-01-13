@@ -5,4 +5,4 @@ Some new lines
 This file has been pushed
 Making some changes after push
 
-// feature addition in new branch
+/* feature addition in new branch */
